@@ -129,7 +129,7 @@ const dataportfolio = [{
     },
     {
         img: "https://images.unsplash.com/photo-1604872441539-ef1db9b25f92?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        description: "Exam Proctoring System.",
+        description: "Exam Proctoring System.Develop an advanced online exam proctoring system using AI, biometric authentication, and real-time monitoring to enhance security and user experience.",
         link: "https://github.com/divyanshsawant/onlineProctoringExam",
     },
     {
