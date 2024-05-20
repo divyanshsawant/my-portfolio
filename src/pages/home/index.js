@@ -57,7 +57,7 @@ export const Home = () => {
                     </div>
                   </Link>
                   
-                    <a href="https://www.google.com">
+                    <a href="https://res.cloudinary.com/dsgq5hscg/image/upload/v1716243475/Resume/Resumez6tzf9ga2qc3t1z7y0jr.jpg">
                     <div id="button_h" className="ac_btn btn your-div-class" >
                       Download Resume
                       <div className="ring one"></div>
