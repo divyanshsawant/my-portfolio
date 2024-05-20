@@ -116,7 +116,7 @@ const cert = [{
 {
     img: "https://res.cloudinary.com/dsgq5hscg/image/upload/v1716218495/Certifications/ciscoCyberSecum1dkctlwc6be5mvuc3mz.jpg",
     description: "CISCO Networking Essentials.",
-    link: "https://res.cloudinary.com/dsgq5hscg/image/upload/v1716218495/Certifications/ciscoCyberSecum1dkctlwc6be5mvuc3mz.jpg",
+    link: "https://res.cloudinary.com/dsgq5hscg/image/upload/v1716218138/Certifications/CiscoNetworkingzluobb8occn3nh9owvc4.jpg",
 },
 ];
 
@@ -130,7 +130,7 @@ const dataportfolio = [{
     {
         img: "https://images.unsplash.com/photo-1604872441539-ef1db9b25f92?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "Exam Proctoring System.",
-        link: "#",
+        link: "https://github.com/divyanshsawant/onlineProctoringExam",
     },
     {
         img: "https://plus.unsplash.com/premium_photo-1682023587356-86065925727a?q=80&w=2584&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
