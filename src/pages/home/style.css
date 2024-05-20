@@ -6,6 +6,10 @@ section {
     -o-transition: all .5s ease-in;
     transition: all .5s ease-in;
 }
+.your-div-class {
+    margin-top: 20px; /* Adjust the value as needed */
+    padding: 10px;
+}
 
 #homedesc{
     text-indent: 40px;
