@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Divyansh Sawant",
     animated: {
-        first: "Studying at MIT Academy of Engineering, Alandi",
+        first: "Studying at MIT Academy of Engineering, Pune",
         //second: "I love programming",
         third: "An aspiring fullstack Developer",
     },
